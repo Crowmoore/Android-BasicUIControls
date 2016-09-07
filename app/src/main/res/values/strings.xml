@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Basic UI Controls</string>
+    <string name="text_radio_exercise">Heck yeah! Radio buttons!</string>
+    <string name="text_login_example">Login example</string>
+    <string name="text_radio_example">Radio Button example</string>
+    <string name="radio_meatballs">Meatballs</string>
+    <string name="radio_chicken">Chicken</string>
+    <string name="radio_fish">Fish</string>
+    <string name="radio_steak">Steak</string>
+    <string name="radio_carrots">Carrots</string>
+    <string name="text_select">Select</string>
+
+    <string name="text_login">Login:</string>
+    <string name="text_password">Password:</string>
+    <string name="text_login_button">Login</string>
+</resources>
